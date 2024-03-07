@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/witty-web-assignment/static/css/main.86469401.css",
-    "main.js": "/witty-web-assignment/static/js/main.2566d5e9.js",
+    "main.css": "/witty-web-assignment/static/css/main.ac964374.css",
+    "main.js": "/witty-web-assignment/static/js/main.f74fe46f.js",
     "static/js/453.ed3810f9.chunk.js": "/witty-web-assignment/static/js/453.ed3810f9.chunk.js",
     "static/media/digital landing.jpg": "/witty-web-assignment/static/media/digital landing.adfab862f29561d82abc.jpg",
     "static/media/cityscape.jpg": "/witty-web-assignment/static/media/cityscape.87837059c319c6378f7a.jpg",
     "static/media/lytus.png": "/witty-web-assignment/static/media/lytus.7276a5b6a67ab490e676.png",
     "index.html": "/witty-web-assignment/index.html",
-    "main.86469401.css.map": "/witty-web-assignment/static/css/main.86469401.css.map",
-    "main.2566d5e9.js.map": "/witty-web-assignment/static/js/main.2566d5e9.js.map",
+    "main.ac964374.css.map": "/witty-web-assignment/static/css/main.ac964374.css.map",
+    "main.f74fe46f.js.map": "/witty-web-assignment/static/js/main.f74fe46f.js.map",
     "453.ed3810f9.chunk.js.map": "/witty-web-assignment/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.86469401.css",
-    "static/js/main.2566d5e9.js"
+    "static/css/main.ac964374.css",
+    "static/js/main.f74fe46f.js"
   ]
 }
